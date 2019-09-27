@@ -1,15 +1,18 @@
-word = "Supercalifragilisticexpialidocious"
-print("the lenght is", len(word))
+# word = "Supercalifragilisticexpialidocious"
+# print("the lenght is", len(word))
 
-print("ice" in word)
+# print("ice" in word)
 
-word2 = "Antidisestablishmentarianism"
+# word2 = "Antidisestablishmentarianism"
 
-word3 = "Honorificabilitudinitatibus"
+# word3 = "Honorificabilitudinitatibus"
 
-print(len(word2) > len(word3))
+# print(len(word2) > len(word3))
 
-print(min('Berlioz', 'Borodin', 'Brian', 'Bartok',
-          'Bellini', 'Buxtehude', 'Bernstein'))
-print(max('Berlioz', 'Borodin', 'Brian', 'Bartok',
-          'Bellini', 'Buxtehude', 'Bernstein'))
+# print(min('Berlioz', 'Borodin', 'Brian', 'Bartok',
+#           'Bellini', 'Buxtehude', 'Bernstein'))
+# print(max('Berlioz', 'Borodin', 'Brian', 'Bartok',
+#           'Bellini', 'Buxtehude', 'Bernstein'))
+
+
+print(9 % 2)
