@@ -12,10 +12,9 @@ def gemiddelde_per_student(studentencijfers):
 def gemiddelde_van_alle_studenten(studentencijfers):
 
     antw = [sum(row)/len(studentencijfers) for row in zip(*studentencijfers)]
-    return antw
 
     # antw = [sum(row)/2 for row in studentencijfers]
-    # return antw
+    return antw
 
 
 print(gemiddelde_per_student(studentencijfers))

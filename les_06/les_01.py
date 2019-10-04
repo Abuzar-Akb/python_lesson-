@@ -3,9 +3,8 @@ def convert(celsius):
 
 
 def table():
-
     for i in range(-30, 41):
-        print("Fahrentheit", round(convert(i), 2), "Celsius", i)
+        print("{:7}".format(round(convert(i), 2)), "{:7}".format(i))
 
 
 table()
