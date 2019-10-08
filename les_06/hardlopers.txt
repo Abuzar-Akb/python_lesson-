@@ -1,4 +1,7 @@
-Wed 18 Sep 2019,18:46:22,abu
-Wed 18 Sep 2019,18:46:26,abu
-Wed 18 Sep 2019,18:46:37, abu
-Wed 18 Sep 2019, 18:49:02, 
+Fri 04 Oct 2019, 18:30:56, sdadsa
+Fri 04 Oct 2019, 18:31:24, rewqrewqrw
+Fri 04 Oct 2019, 18:31:25, rewqrewqrewq
+Fri 04 Oct 2019, 18:31:26, rewqrewqrewq
+Fri 04 Oct 2019, 18:31:27, rewqrewqrew
+Fri 04 Oct 2019, 18:31:28, abu
+Fri 04 Oct 2019, 18:44:15, & C:/Users/abuza/AppData/Local/Programs/Python/Python37-32/python.exe c:/Users/abuza/OneDrive/Documenten/Programming/les_10/les_01.py
